@@ -6,24 +6,11 @@
 | [所有關卡](#所有關卡) |
 
 # 關於《線之旅》
-## 靈感來源
-- 「[跳舞的線](https://zh.m.wikipedia.org/zh-tw/跳舞的線)」。
-
-## 遊戲玩法
-- 一指神功。
-
-## 遊戲人員
-職稱 | 名稱
---- | ----
-舞線開發 | 獵豹移動、BoomBit
-線之旅開發 | Zutek 3134
-繪圖 | Furrie Achers
-內部測試 | GP0108、隱者、HappyGamer3194
-
-## 下載
+- 靈感來源：[跳舞的線](https://zh.m.wikipedia.org/zh-tw/跳舞的線)。
+- 遊戲玩法：一指神功。
+- 遊戲開發 Zutek 3134；繪圖 Furrie Achers；內部測試 GP0108、隱者、HappyGamer3194。
 - 點擊「[這裡](https://github.com/ZutekDL/A-Lines-Journey/releases)」跳轉至下載頁面。
-- 官方 [Discord 伺服器](http://discord.gg/2c6Hjcm)。
-
+- 官方 [Discord 伺服器](http://discord.gg/2c6Hjcm)；官方 [QQ 群](https://jq.qq.com/?_wv=1027&k=yrUyqeAB)。
 
 
 # 關於關卡
@@ -163,7 +150,7 @@
    - 然而只有第二結局可以獲得三彩球，因為它是彩球觸發的。
 6. 第一個四字關卡。
 
-## Wonderland
+## 仙境
 | 關於 |   |
 | ----- | - |
 | 音　樂 | 跳舞的線 **「復活節」** |
