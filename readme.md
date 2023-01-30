@@ -1,11 +1,14 @@
-# About A Line's Journey
-- Read [the wiki](https://github.com/ZutekDL/A-Lines-Journey/wiki) for more details.
-- [國文介面](https://github.com/ZutekDL/A-Lines-Journey/blob/main/關於線之旅.md)。
+## About 關於
+[English Wiki](https://github.com/ZutekDL/A-Lines-Journey/wiki)；[國文介面](https://github.com/ZutekDL/A-Lines-Journey/blob/main/關於線之旅.md)。
 
-## Known Bugs
-- [English](https://github.com/ZutekDL/A-Lines-Journey/tree/main/Known%20Bugs)
-- [國文](https://github.com/ZutekDL/A-Lines-Journey/tree/main/已知錯誤)
+## Latest News 最新消息
+Check the [releases](https://github.com/ZutekDL/A-Lines-Journey/releases).
+閱讀[更新日誌](https://github.com/ZutekDL/A-Lines-Journey/tree/main/更新日誌)。
 
-## Download
-- Check the [releases](https://github.com/ZutekDL/A-Lines-Journey/releases).
-- Join us in our [official Discord server](http://discord.gg/2c6Hjcm)!
+## Known Bugs 已知錯誤
+[English](https://github.com/ZutekDL/A-Lines-Journey/tree/main/Known%20Bugs%20已知錯誤/English)；[國文](https://github.com/ZutekDL/A-Lines-Journey/tree/main/Known%20Bugs%20已知錯誤/國文)。
+
+## Contact 聯絡
+[Discord](http://discord.gg/2c6Hjcm)、[QQ](https://jq.qq.com/?_wv=1027&k=yrUyqeAB)。
+
+![A Line's Journey](https://github.com/ZutekDL/A-Lines-Journey/blob/main/Icon.png?raw=true)
