@@ -1,6 +1,6 @@
 # About A Line's Journey
 - Read [the wiki](https://github.com/ZutekDL/A-Lines-Journey/wiki) for more details.
-- [國文介面](https://github.com/ZutekDL/A-Lines-Journey/blob/main/Chinese%20國文.md)。
+- [國文介面](https://github.com/ZutekDL/A-Lines-Journey/blob/main/關於線之旅.md)。
 
 ## Known Bugs
 - [English](https://github.com/ZutekDL/A-Lines-Journey/tree/main/Known%20Bugs)
