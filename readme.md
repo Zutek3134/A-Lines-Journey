@@ -1,5 +1,6 @@
 # About A Line's Journey
 - Read [the wiki](https://github.com/ZutekDL/A-Lines-Journey/wiki) for more details.
+- [繁體中文介面](https://github.com/ZutekDL/A-Lines-Journey/blob/main/Chinese%20國文.md)。
 
 ## Inspiration
 - "[Dancing Line](https://zh.m.wikipedia.org/zh-tw/跳舞的線)", a game of Cheetah Mobile and BoomBit.
