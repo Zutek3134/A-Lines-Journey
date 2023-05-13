@@ -1,5 +1,5 @@
 ## About 關於
-[English Wiki](https://github.com/ZutekDL/A-Lines-Journey/wiki)；[國文介面](https://github.com/ZutekDL/A-Lines-Journey/blob/main/關於線之旅.md)。
+[English Wiki](https://zutek3134.github.io/Zutek3134/games/ALJ/)；[國文介面](https://zutek3134.github.io/Zutek3134/zh-TW/games/ALJ/)。
 
 ## Latest News 最新消息
 Check the [releases](https://github.com/ZutekDL/A-Lines-Journey/releases).
